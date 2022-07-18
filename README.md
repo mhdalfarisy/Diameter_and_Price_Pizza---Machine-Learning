@@ -7,8 +7,9 @@ Simple Regression Linear merupakan salah satu materi dan tugas dari materi Machi
 
 <hr>
 
-# Portofolio Coding dan Visualisasi :
+# Portofolio Coding :
 [![Github](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/github-logo-tile.png)](https://github.com/mhdalfarisy)
 
 
+# Portofolio Visualisasi :
 [![Dashboard Portofolio Tableu](https://github.com/mhdalfarisy/Capstone-Project-Modul-1---Program-Stock-Barang-Gudang-/blob/main/image/Tableau-Server-1.jpg)](https://public.tableau.com/app/profile/muhammad.al.farisy6147)
